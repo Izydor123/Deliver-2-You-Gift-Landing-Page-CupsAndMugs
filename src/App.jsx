@@ -29,7 +29,7 @@ function App() {
         {id:4, text:"Taza Haruncal", link:"https://generalcatalogue2025.eu/deliver2yougift/#page/346", image:image4},
         ]}
         title="Outros produtos desta categoria"/>
-      <Catalogue text="Conheça os nossos outros produtos associados à copos e canecas" link={catalogue}/>
+      <Catalogue text="Conheça os nossos outros produtos associados à copos e canecas" link="https://generalcatalogue2025.eu/deliver2yougift/#page/306"/>
       <Footer/>
     </section>
   )
