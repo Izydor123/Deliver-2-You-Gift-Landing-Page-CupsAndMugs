@@ -17,9 +17,9 @@ function App() {
       <Header title="Copos e canecas" desc1="Descubra a nossa coleção única de canecas e chávenas, perfeitas para acompanhar o seu café matinal, chá da tarde ou qualquer bebida que aqueça o seu coração." desc2="Desde designs modernos a estilos criativos, temos opções para todos os gostos."/>
       <Product
        image={imageMain} 
-       title="Jarra Térmica Altifalante Tracir: Inovação e Tecnologia numa Só Peça  " 
-       desc1="A Jarra Térmica Altifalante Tracir redefine o conceito de recipiente térmico, combinando funcionalidade tradicional com tecnologia moderna. Fabricada em aço inoxidável de alta qualidade, esta jarra destaca-se não apenas pelo seu design elegante, mas também pela inclusão de um surpreendente altifalante integrado."
-       desc2="Com uma capacidade generosa de 1,25 litros, oferece a versatilidade perfeita para quem busca manter bebidas na temperatura ideal enquanto desfruta da sua música favorita. A construção em aço inoxidável garante um isolamento térmico superior, mantendo bebidas quentes ou frias por longos períodos."
+       title="Jarra Térmica Altifalante Tracir: Inovação e Tecnologia numa Só Peça" 
+       desc1="A Jarra Térmica Altifalante Tracir redefine o conceito de copo térmico, combinando funcionalidade tradicional com tecnologia moderna. Fabricada em aço inoxidável de alta qualidade, esta jarra destaca-se não apenas pelo seu design elegante, mas também pela inclusão de um surpreendente altifalante integrado."
+       desc2="Com uma capacidade generosa de 1,25 litros, oferece a versatilidade perfeita para quem procura manter bebidas na temperatura ideal enquanto desfruta da sua música favorita. A construção em aço inoxidável garante um isolamento térmico superior, mantendo bebidas quentes ou frias por longos períodos."
        link="https://generalcatalogue2025.eu/deliver2yougift/#page/327"/>
       <ProductsList 
         data={[
